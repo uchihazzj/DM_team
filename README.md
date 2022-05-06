@@ -4,8 +4,9 @@
 
 # 基于豆瓣影评的电影推荐模型进展报告
 
-- 运行代码前，请使用`conda env create --file environment.yml`安装所需环境
+- 运行代码前，请使用`conda env create --file environment1.yml`安装所需环境
 
+- 文件夹Scrapy_DOUBAN为使用的数据爬取脚本
 - wath.py 包括数据清洗以及数据分类标记的代码，环境为environment1.yml
 - pltData.py 包括数据标记后的可视化展示的代码，环境为environment1.yml
 - train.py 包括使用lstm模型进行情感分析训练的代码，环境为environment1.yml
