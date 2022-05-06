@@ -9,7 +9,7 @@
 - train.py 包括使用lstm模型进行情感分析训练的代码，环境为environment1.yml
 - predict.py 包括使用上边训练得到的模型进行预测的代码，环境为environment1.yml
 - recommand.py 包括对用户进行电影推荐的代码，环境为environment1.yml
-- apriori.py 包括关联规则挖掘的代码，环境为environment2.yml
+- apriori.py 包括关联规则挖掘的代码
 
 由于训练出的结果模型文件`lstm.h5`较大，需要使用的话请联系以获取数据：v6p6prw2@anonaddy.me，或使用北理内网进行下载，网址为：http://10.1.0.92:19080/temp_file/lstm.h5
 
