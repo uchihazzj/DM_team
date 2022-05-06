@@ -1,9 +1,5 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
-Created on Tue Sep  3 21:03:02 2019
 将movie中的actor_ids和director_ids转存到person_obj表中
-@author: liudiwei
 """
 
 import database as db
