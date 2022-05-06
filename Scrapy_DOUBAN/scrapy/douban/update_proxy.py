@@ -1,11 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Aug  4 16:11:58 2019
-
-@author: liudiwei
-"""
-
 import requests
 import json
 import math
