@@ -14,6 +14,6 @@
 - recommand.py 包括对用户进行电影推荐的代码，环境为environment1.yml
 - apriori.py 包括关联规则挖掘的代码
 
-由于训练出的结果模型文件`lstm.h5`较大，需要使用的话请联系以获取数据：v6p6prw2@anonaddy.me，或使用北理内网进行下载，网址为：http://10.1.0.92:19080/temp_file/lstm.h5
+由于训练出的结果模型文件`lstm.h5`较大，需要使用的话请联系以获取数据：v6p6prw2@anonaddy.me，或登录校园网进行下载，网址为：http://10.1.0.92:19080/temp_file/lstm.h5 ，或直接在乐学里边下载code.7z，那个里边是完整的
 
 ## 如需重新训练，请联系以获取数据：v6p6prw2@anonaddy.me
